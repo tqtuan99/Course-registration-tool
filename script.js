@@ -1,7 +1,7 @@
 $("body").prepend('<div id="loadCaptchaHere"></div><div id="displayThongBao"></div>');
 var studentIdNumber = prompt("Vui lòng nhập mssv của bạn", 0);
 studentIdNumber = (studentIdNumber + "").trim();
-var curriculumId = "697";
+var curriculumId = "798";
 
 function win_Custom_Add(e, a) {
     e = (e + "").trim();
