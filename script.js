@@ -32,4 +32,3 @@ function win_Custom_Add(e, a) {
         }
     })
 }
-}
