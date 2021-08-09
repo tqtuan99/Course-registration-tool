@@ -1,2 +1,1 @@
-# Credit-registration-tool
-K25 vs K26
+<h1 align="center" <a  I'm Quoc Tuan </a> </h1>
